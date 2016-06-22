@@ -1,0 +1,4 @@
+app:
+  image: rjocoleman/simple-proxy
+  ports:
+    - 8080:8080
