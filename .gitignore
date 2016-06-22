@@ -1,2 +1,4 @@
 simple-proxy
 .env
+dist
+simple-proxy-*.tar.gz
